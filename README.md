@@ -1,2 +1,7 @@
 # WanderBear
-Event Planning Platform: Initially developed as a stateless web app with Node.js, Docker, and AWS. Integrated Ticketmaster, YouTube, TripAdvisor, and Wikimedia APIs. Used AWS S3 for cloud storage, deployed on EC2 via DockerHub. Refactored due to AWS access changes, now operates without AWS services
+Event Planning Platform: Developed a stateless web application using Node.js, Docker, and AWS.
+Implemented a mashup of Ticketmaster API, YouTube Data API, TripAdvisor API, and
+Wikimedia API. Leveraged AWS S3 as the cloud persistence service for page views and user
+interactions. Deployed my app on EC2 instance using DockerHub.
+
+Images of the working project have been uploaded for reference
